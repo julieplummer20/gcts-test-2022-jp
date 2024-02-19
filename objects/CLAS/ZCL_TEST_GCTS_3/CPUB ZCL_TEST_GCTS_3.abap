@@ -1,0 +1,8 @@
+CLASS zcl_test_gcts_3 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
